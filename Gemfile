@@ -24,7 +24,7 @@ gem 'turbolinks', '~> 5'
 # This is to avoid Active Model (and by extension the entire framework)
 # being dependent on a binary library.
 gem 'bcrypt', '~> 3.1.11', require: false
-
+ghjhjhjkjk
 # This needs to be with require false to avoid it being automatically loaded by
 # sprockets.
 gem 'uglifier', '>= 1.3.0', require: false
